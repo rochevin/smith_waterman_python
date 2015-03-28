@@ -1,0 +1,12 @@
+Rapport rendu à M. Lecroq et M. Barbu, dans le cadre de l'UE programmation en Bioinformatique
+Auteur : ROCHER Vincent
+Nombre de fichiers contenus dans l'archive : 11
+Noms des fichiers contenus dans l'archive : LISEZ_MOI.txt, sequenceheinz.fasta, sequencesalmo.fasta, 7058_echantillon1.txt, 7058_echantillon2.txt,
+alignement.py, stat.R, simulationseq.R, CR_PROG_RV.pdf , result.html (resultat d'un tracé arrière) et scores.txt
+Fichiers sequenceheinz.fasta et sequencesalmo.fasta sont les deux séquences utilisés lors de l'expérimentation des résultats.
+
+7058_echantillon1.txt et 7058_echantillon2.txt sont deux fichiers multifasta générées par simulationseq.R et issue des deux séquences principales.
+On peut les utiliser au besoin.
+
+Les fichiers R stat.R et simulationseq.R se lancent sous R avec la commande :
+source('stat.R) ou source('simulationseq.R)
